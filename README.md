@@ -1,6 +1,6 @@
 # <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
 
-<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+<div align="center"><img src="https://files.catbox.moe/a6qagu.jpg"></div>
 
 ## Important Note
 
@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:ditss-dev/baileys"
+    "baileys": "github:YanLynnn/baileys-pro"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:ditss-dev/baileys
+npm install baileys@github:YanLynnn/baileys-pro
 ```
 
 Then import the default function in your code:
